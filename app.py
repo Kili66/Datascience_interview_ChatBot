@@ -16,7 +16,7 @@ class ChatApplication:
         self.window.mainloop()
     def _setup_main_window(self):
         self.window.title("Chat Bot")
-        self.window.resizable(width=False, height=False)
+        self.window.resizable(width=True, height=True)
         self.window.configure(width=470, height=550, bg=BG_Color)
 
         # Head label

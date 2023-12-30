@@ -69,7 +69,7 @@ class ChatDataset(Dataset):
 batch_size=8   
 input_size=len(X_train[0])
 output_size= len(tags)
-hidden_size=8
+hidden_size=10
 learning_rate=0.001
 epochs= 1000
 #print sizes
