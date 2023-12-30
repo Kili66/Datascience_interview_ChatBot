@@ -1,0 +1,5 @@
+1- Understanding NLP prprocessing concepts: NLTK, Tokeinization, Stemming, BagOfWords
+2- Download NLTK and write function for each preprocessing step
+3- Create training data and apply takineization and Stemming
+4- create pytorch model and model training
+5- save the model
