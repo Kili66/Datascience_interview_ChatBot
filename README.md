@@ -1,4 +1,6 @@
 # Datascience Interview Chatbot
+![chatbot](https://github.com/Kili66/Datascience_interview_ChatBot/assets/66678981/2f0ace04-d917-452c-bda7-093f2213c7ab)
+
 
 ## Overview
 This project is a Datascience Interview Chatbot built using NLP, deep learning with PyTorch, and a Tkinter-based user interface. The chatbot is designed to simulate a datascience interview and provide relevant responses.
