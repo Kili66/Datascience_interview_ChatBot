@@ -18,3 +18,18 @@ This project is a Datascience Interview Chatbot built using NLP, deep learning w
    ```bash
    git clone https://github.com/your-username/datascience-interview-chatbot.git
    cd datascience-interview-chatbot
+## Usage
+1. NLP Preprocessing
+* Understanding NLP preprocessing concepts: NLTK, Tokenization, Stemming, Bag of Words.
+* Download NLTK and write functions for each preprocessing step.
+2. Create Training Data
+* Create training data for the chatbot.
+* Apply tokenization and stemming to the training data.
+3. PyTorch Model
+* Create a PyTorch model for the chatbot.
+* Implement model training.
+4. Save the Model
+* Save the trained PyTorch model for later use.
+5. Implement Tkinter App
+* Develop a Tkinter-based user interface for the chatbot.
+I* ntegrate NLP preprocessing and the PyTorch model into the Tkinter app.
