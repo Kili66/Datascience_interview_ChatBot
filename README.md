@@ -1,4 +1,4 @@
-# Datascience Interview Chatbot
+# Datascience Interview Chatbot with Nltk and deep learning
 ![chatbot](https://github.com/Kili66/Datascience_interview_ChatBot/assets/66678981/2f0ace04-d917-452c-bda7-093f2213c7ab)
 
 
